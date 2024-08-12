@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">QR Scanner</string>
+    <string name="app_name">CyberScanner</string>
     <string name="scan_qr">Scan QR</string>
     <string name="result">Result</string>
     <string name="website">Website:</string>
@@ -10,8 +10,8 @@
     <string name="no_data">No Data</string>
     <string name="copied">copied</string>
     <string name="deleted">deleted</string>
-    <string name="descp">Effortless QR Code Scanning with Enhanced Privacy</string>
-    <string name="error_meesage">We are providing services for scanning codes without requiring your camera access and preserving user privacy. This is accomplished by delegating the task of scanning the code to Google Play services and returning only the scan results to your app</string>
-    <string name="guide">Kindly clear your play services data and restart the app</string>
+    <string name="descp">Kibertəhlükəsizlik Xidmətinin QR kod scanneri</string>
+    <string name="error_meesage">Kibertəhlükəsizlik xidməti sizin kameranıza giriş tələb etmədən və istifadəçi məxfiliyini qoruyaraq kodların skan edilməsi həyata keçirir. Bu, kodun skan edilməsi üçün Kibertəhlükəsizlik xidmətinin sizə verdiyi VPN-dən istifadə etməlisiniz və bu zaman  skan nəticələrini tətbiqinizdə görə bilərsiz.</string>
+    <string name="guide">Zəhmət olmasa tətbiqi yenidən başladın</string>
 
 </resources>
